@@ -7,7 +7,7 @@ import org.json.JSONObject;
 
 public class ChatGPT {
 
-    private final String OPENAI_API_KEY = "YOUR_OPENAI_API_KEY";
+    private final String OPENAI_API_KEY = "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";
     private final String OPENAI_API_URL = "https://api.openai.com/v1/";
 
     public String generateResponse(String prompt) {
